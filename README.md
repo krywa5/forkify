@@ -1,5 +1,5 @@
 # Forkify
-This is API-based recipe application.
+This is an API-based recipe application.
 ## Try it
 [Try this app here](https://krywa5.github.io/forkify/)
 ## Features
